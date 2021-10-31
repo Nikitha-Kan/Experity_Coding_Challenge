@@ -1,0 +1,15 @@
+C:\Users\Nikitha Kanumuri\source\repos\Experity_Coding_Challenge\bin\Debug\Experity_Coding_Challenge.exe.config
+C:\Users\Nikitha Kanumuri\source\repos\Experity_Coding_Challenge\bin\Debug\Experity_Coding_Challenge.exe
+C:\Users\Nikitha Kanumuri\source\repos\Experity_Coding_Challenge\bin\Debug\Experity_Coding_Challenge.pdb
+C:\Users\Nikitha Kanumuri\source\repos\Experity_Coding_Challenge\obj\Debug\Experity_Coding_Challenge.csproj.AssemblyReference.cache
+C:\Users\Nikitha Kanumuri\source\repos\Experity_Coding_Challenge\obj\Debug\MainWindow.g.cs
+C:\Users\Nikitha Kanumuri\source\repos\Experity_Coding_Challenge\obj\Debug\App.g.cs
+C:\Users\Nikitha Kanumuri\source\repos\Experity_Coding_Challenge\obj\Debug\Experity_Coding_Challenge_MarkupCompile.cache
+C:\Users\Nikitha Kanumuri\source\repos\Experity_Coding_Challenge\obj\Debug\Experity_Coding_Challenge_MarkupCompile.lref
+C:\Users\Nikitha Kanumuri\source\repos\Experity_Coding_Challenge\obj\Debug\MainWindow.baml
+C:\Users\Nikitha Kanumuri\source\repos\Experity_Coding_Challenge\obj\Debug\Experity_Coding_Challenge.g.resources
+C:\Users\Nikitha Kanumuri\source\repos\Experity_Coding_Challenge\obj\Debug\Experity_Coding_Challenge.Properties.Resources.resources
+C:\Users\Nikitha Kanumuri\source\repos\Experity_Coding_Challenge\obj\Debug\Experity_Coding_Challenge.csproj.GenerateResource.cache
+C:\Users\Nikitha Kanumuri\source\repos\Experity_Coding_Challenge\obj\Debug\Experity_Coding_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Nikitha Kanumuri\source\repos\Experity_Coding_Challenge\obj\Debug\Experity_Coding_Challenge.exe
+C:\Users\Nikitha Kanumuri\source\repos\Experity_Coding_Challenge\obj\Debug\Experity_Coding_Challenge.pdb
